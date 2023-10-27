@@ -1,6 +1,6 @@
 # Olá Mundo! 🌎
 
-<h3>Meu nome é Suanny, moro em Recife-PE. Tenho 18 anos e estou fazendo ADS.
+<h3>Meu nome é Suanny, moro em Recife-PE. Tenho 18 anos e estou cursando ADS.
 <br> Minha meta é ser full stack, porém com foco na parte de front end, que é onde eu me identifico.</h3>
 <br>
 
