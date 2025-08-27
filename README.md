@@ -38,5 +38,5 @@
 <br>
 <div>
     <a href="https://www.linkedin.com/in/suanny-samilly-b4a904260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/somosdev_?igsh=MWdzbWNlN2g5b2Rhag==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="[https://www.instagram.com/somosdev_?igsh=MWdzbWNlN2g5b2Rhag==](https://www.instagram.com/deevgirl)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
