@@ -2,14 +2,6 @@
 
 <h3>Meu nome é Suanny, moro em Recife-PE. Tenho 18 anos e estou cursando ADS.
 <br> Minha meta é ser full stack, porém com foco na parte de front end(web e mobile), que é onde eu me identifico.</h3>
-<br>
-
-<div align="center">
-   <a href="https://github.com/suannysamilly"/>
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suannysamilly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suannysamilly&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<br>
 
 # Conhecimentos em:
 <div align="left"><br>
