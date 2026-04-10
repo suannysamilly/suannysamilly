@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-   <a href="https://github.com/suannysamilly">
+   <a href="https://github.com/suannysamilly"/>
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suannysamilly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suannysamilly&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
